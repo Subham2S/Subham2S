@@ -1,7 +1,7 @@
-### Hi there 👋
+### My Badges
 ![](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 
-## :man_technologist: About me!
+## :man_technologist: Hi there 👋
 I am a former Project Engineer turned Business Analyst who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python case studies, with a focus on using R and Python for data analysis, statistical modelling and machine learning.
 
 ## :man_technologist: Stack
