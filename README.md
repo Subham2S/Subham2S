@@ -1,7 +1,5 @@
 ### Hi there 👋
-![](https://www.credly.com/badges/0342d492-2850-4b27-8125-6c53c43eab7c/public_url)
-
-
+![](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 
 <!--
 **Subham2S/Subham2S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
