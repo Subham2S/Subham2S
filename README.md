@@ -5,7 +5,7 @@
 I am a former Project Engineer turned Business Analyst who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python case studies, with a focus on using R and Python for data analysis, statistical modelling and machine learning in Big data analytics.
 
 ## :man_technologist: Stack
-![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) 
 
 
 
