@@ -1,4 +1,5 @@
 ### My Badges
+<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Your image title" width="250"/>
 ![](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 
 ## :man_technologist: Hi there 👋
