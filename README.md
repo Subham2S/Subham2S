@@ -1,7 +1,7 @@
 ### My Badges
 <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Your image title" width="250"/>
 
-![](https://images.credly.com/size/250x250/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
+![](https://images.credly.com/size/225x225/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 
 ## :man_technologist: Hi there 👋
 I am a former Project Engineer turned Business Analyst who is passionate about data science and machine learning uplift in the public sector. My repositories feature R and Python case studies, with a focus on using R and Python for data analysis, statistical modelling and machine learning in Big data analytics.
