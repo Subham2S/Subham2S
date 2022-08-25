@@ -6,10 +6,10 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 - 📫 How to reach me: mail.subhamshit@gmail.com
 - 😄 Pronouns: He/His/Him
 
-## :man_technologist: Stack
+## 🛠️ Stack
 SQL, Python, R, Tableau, MS Office Suite, Unix/Linux, Sqoop, Hadoop, Hive, Impala, Spark, MongoDB, Git, Flask.
 
-## Badges
+## 🎖️ Badges
 <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" width="200"/>
 
 
