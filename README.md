@@ -1,8 +1,10 @@
 ## :man_technologist: Hi there 👋
-I am a former Project Engineer turned Business Analyst who is passionate about data science, machine learning and Big data analytics. My repositories feature R and Python case studies, with a focus on using R and Python for data analysis, statistical modelling and machine learning in Big data analytics.
+I am a former Project Engineer turned Business Analyst who is passionate about data science, machine learning and Big data analytics. My repositories feature Python case studies, with a focus on using Python for data analysis, statistical modelling and machine learning in Big data analytics.
 
 ## :man_technologist: Stack
-![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) 
+SQL, Python, R, Tableau, MS Office Suite, Unix/Linux, Sqoop, Hadoop, Hive, Impala, Spark, MongoDB, Git, Flask.
+![image](https://user-images.githubusercontent.com/38922479/186566436-a4f3a274-d6f6-46b0-a509-3d8265194a0f.png)
+
 
 ## Badges
 <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" width="200"/>
