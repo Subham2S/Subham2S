@@ -2,7 +2,7 @@
 I am a former Project Engineer turned Business Analyst who is passionate about data science, machine learning and Big data analytics. My repositories feature Python case studies, with a focus on using Python for data analysis, statistical modelling and machine learning in Big data analytics. I have hands on experience in Data Engineering, Analysis, Design, Development and Implementation of large-scale applications using SQL, Big Data, Hadoop and Spark Ecosystem.
 
 - 🔭 I’m currently working on Regression and Classification Models using Python.
-- 📫 How to reach me: ![Mail](mailto:subham.besume@gmail.com) • ![LinkedIn](https://www.linkedin.com/in/subhamshit/)
+- 📫 How to reach me: ![Mail](mailto:subham.besume@gmail.com) • ![LinkedIn](https://www.linkedin.com/in/subhamshit/) 
 - 😄 Pronouns: He/His/Him
 
 ## 🛠️ Stack
