@@ -11,7 +11,7 @@ SQL, Python, R, Tableau, MS Office Suite, Unix/Linux, Sqoop, Hadoop, Hive, Impal
 ## 🎖️ Badges
 <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" width="200"/>
 
-<img src="https://credentials.databricks.com/b99cd2cf-9827-4375-b86f-63601a2cc368" width="200"/>
+<img src="https://templates.images.credential.net/16491856424607350801669276089387.png" width="200"/>
 
 <!---
 *Subham2S/Subham2S* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
