@@ -9,7 +9,8 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 SQL, Python, R, Tableau, MS Office Suite, Unix/Linux, Sqoop, Hadoop, Hive, Impala, Spark, MongoDB, Git, Flask.
 
 ## 🎖️ Badges
-<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" width="200"/>      []("https://templates.images.credential.net/16491856424607350801669276089387.png"){: height="75px" width="300px" style="float:left; padding-right:10px" }
+<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" width="200"/>      
+[]("https://templates.images.credential.net/16491856424607350801669276089387.png"){: height="75px" width="300px" style="float:left; padding-right:10px" }
 
 <!---
 *Subham2S/Subham2S* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
