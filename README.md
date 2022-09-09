@@ -5,6 +5,9 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
 - 😄 Pronouns: He/His/Him
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="subhamshit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subhamshit?trk=profile-badge">Subham Shit</a></div>
+              
+
 ## 🛠️ Stack
 SQL, Python, R, Tableau, MS Office Suite, Unix/Linux, Sqoop, Hadoop, Hive, Impala, Spark, MongoDB, Git, Flask.
 
