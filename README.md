@@ -4,8 +4,7 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 - 🔭 I’m currently working on Regression and Classification Models using Python.
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
 - 😄 Pronouns: He/His/Him
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="subhamshit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subhamshit?trk=profile-badge">Subham Shit</a></div>
+
               
 
 ## 🛠️ Stack
@@ -23,5 +22,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="subhamshit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subhamshit?trk=profile-badge">Subham Shit</a></div>
 
 -->
