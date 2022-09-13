@@ -1,10 +1,7 @@
 ## :man_technologist: Hi there 👋
 I am a former Project Engineer turned Business Analyst who is passionate about data science, machine learning and Big data analytics. My repositories feature Python case studies, with a focus on using Python for data analysis, statistical modelling and machine learning. I have hands on experience in Data Engineering, Analysis, Design, Development and Implementation of large-scale applications using SQL, Big Data, Hadoop and Spark Ecosystem.
 
-- 🔭 I’m currently working on : 
-  - Regression and Classification Models using Python
-  - Forecasting using Time Series Analysis
-  - Natural Language Processing
+- 🔭 I’m currently working on : Regression and Classification Models using Python • Forecasting using Time Series Analysis • Natural Language Processing
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
 - 😄 Pronouns: He/His/Him
 
