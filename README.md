@@ -4,6 +4,7 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 - 🔭 I’m currently working on : 
   - Regression and Classification Models using Python
   - Forecasting using Time Series Analysis
+  - Natural Language Processing
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
 - 😄 Pronouns: He/His/Him
 
