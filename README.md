@@ -11,7 +11,7 @@ I am a former Project Engineer turned Business Analyst who is passionate about d
 SQL • Python • R • Tableau • MS Office Suite • Unix/Linux • Sqoop • Hadoop • Hive • Impala • Spark • MongoDB • Git • Flask
 
 ## 🎖️ Badges
-<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://templates.images.credential.net/16491856424607350801669276089387.png" alt="Databricks Spark Associate Developer" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57890932" alt="Agile and DevOps: Adopting Agile Methodology" height="200"/>
+<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://templates.images.credential.net/16491856424607350801669276089387.png" alt="Databricks Spark Associate Developer" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57890932" alt="Agile and DevOps: Adopting Agile Methodology" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.hackerrank.com/subham_s?badge=sql&stars=5">
 
 <!---
 *Subham2S/Subham2S* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
