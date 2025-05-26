@@ -1,5 +1,5 @@
 ## :man_technologist: Hi there 👋
-I am a Business Analyst who is passionate about Data Science, Machine Learning and Big data Analytics. My repositories feature Python case studies, with a focus on using Python for Data analysis, Statistical Modelling and Machine Learning. I have hands on experience in Data Engineering, Analysis, Design, Development and Implementation of large-scale applications using SQL, Big Data, Hadoop and Spark Ecosystem.
+I’m a Data Scientist and Consultant with 3+ years of experience driving intelligent solutions in financial risk, machine learning, and big data analytics. My GitHub showcases Python-powered projects in predictive modeling, statistical analysis, and scalable automation. I specialize in designing end-to-end pipelines using SQL, Spark, and Hadoop ecosystems, and thrive on translating business complexity into high-impact, data-driven strategies.
 
 - 🔭 I’m currently working on : Participating on Advent of Code (Active) • Machine Learning • Forecasting using Time Series Analysis • NLP • LSTM
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
