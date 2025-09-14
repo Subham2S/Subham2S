@@ -1,5 +1,5 @@
 ## :man_technologist: Hi there 👋
-I’m a Data Scientist and Consultant with 3+ years of experience driving intelligent solutions in financial risk, machine learning, and big data analytics. My GitHub showcases Python-powered projects in predictive modeling, statistical analysis, and scalable automation. I specialize in designing end-to-end pipelines using SQL, Spark, and Hadoop ecosystems, and thrive on translating business complexity into high-impact, data-driven strategies.
+I’m a Data Scientist with 5.5+ years of experience driving intelligent solutions in financial risk, machine learning, and big data analytics. My GitHub showcases Python-powered projects in predictive modeling, statistical analysis, and scalable automation. I specialize in designing end-to-end pipelines using SQL, Spark, and Hadoop ecosystems, and thrive on translating business complexity into high-impact, data-driven strategies.
 
 - 🔭 I’m currently working on : Participating on Advent of Code (Active) • Machine Learning • Forecasting using Time Series Analysis • NLP • LSTM
 - 📫 How to reach me: [Mail](mailto:subham.besume@gmail.com) • [LinkedIn](https://www.linkedin.com/in/subhamshit/) • [Tableau Public](https://public.tableau.com/app/profile/subham.shit)
